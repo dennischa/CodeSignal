@@ -8,11 +8,20 @@
 
 #ifndef interview_practice_h
 #define interview_practice_h
-#include <vector>
+
+#include <iostream>
 #include <string>
+#include <vector>
+#include <stack>
+#include <map>
 
 using namespace std;
 
-int feedingTime(vector<vector<string>> classes);
+namespace feedingTime {
+    struct ColoringGraph;
+    vector<vector<int>> makeAdjacencyArray(const vector<vector<string>>& classes);
+    bool isViable(const ColoringGraph& g, const vector<vector<int>> &adjArr, int count);
+    int feedingTime(vector<vector<string>> classes);
+}
 
 #endif /* interview_practice_h */

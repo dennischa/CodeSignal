@@ -7,7 +7,7 @@
 //
 
 #include <iostream>
-#include "./interview-pratice/interview-practice.h"
+#include "./interview-practice/interview-practice.h"
 
 int main(int argc, const char * argv[]) {
     // insert code here...

@@ -7,7 +7,7 @@
 //
 //  Problem URL : https://app.codesignal.com/interview-practice/task/Sby2j4SHqDncwyQjh
 //  Difficulty : Easy
-//  Time Complex Prediction
+//  Time Complex Prediction(vertex:v, link:l) : O(v2) for adjacent Array, O(l) to update depths
 //  Note : Graph, Divide and conquer
 
 #include "interview-practice.h"

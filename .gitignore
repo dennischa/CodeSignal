@@ -72,3 +72,6 @@ DerivedData/
 # End of https://www.gitignore.io/api/c++,xcode
 
 *.pbxproj
+
+### Visual Studio ###
+.vs/*

@@ -7,6 +7,7 @@
 //
 //  Problem URL : https://app.codesignal.com/interview-practice/task/Hm98RnqK9Be575yoj
 //  Difficulty : Easy
+// Time Complex Prediction : O(nlogn) for sorting, O(n) for algorithm
 //  Note : Sort, Iterator
 
 #include "interview-practice.h"

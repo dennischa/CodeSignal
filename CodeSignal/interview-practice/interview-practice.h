@@ -15,9 +15,17 @@
 #include <stack>
 #include <map>
 #include <queue>
+#include <numeric>
 
 using namespace std;
 
+template<typename T>
+struct Tree {
+   Tree(const T &v) : value(v), left(nullptr), right(nullptr) {}
+   T value;
+   Tree *left;
+   Tree *right;
+};
 namespace feedingTime {
     struct ColoringGraph;
     vector<vector<int>> makeAdjacencyArray(const vector<vector<string>>& classes);

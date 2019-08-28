@@ -1,5 +1,5 @@
 # CodeSignal Algorithm Study
->¾Ë°í¸®Áò ¹®Á¦ ÇØ´ä
+> ì•Œê³ ë¦¬ì¦˜ ë¬¸ì œ í•´ë‹µ
 >
 >![](https://forthebadge.com/images/badges/made-with-c-plus-plus.svg)
 # Profile
